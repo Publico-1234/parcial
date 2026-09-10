@@ -11,9 +11,10 @@
 .container-fluid {
     text-align: left;
 }
+
 .principal {
     height: 500px;
-    background-image: url("img/muchacha.png");
+    background-image: url(img/muchacha.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -21,6 +22,7 @@
     padding-top: 20px;
     padding-left: 50px;
 }
+
 #text {
     text-align: left;
 }
