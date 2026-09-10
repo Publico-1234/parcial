@@ -14,7 +14,7 @@
 
 .principal {
     height: 500px;
-    background-image: url(img/muchacha.png);
+     background-image: url("IMGPARCIAL/muchacha.png");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
